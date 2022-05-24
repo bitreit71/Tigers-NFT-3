@@ -1472,7 +1472,7 @@ h2 {
   }
 
   .header__burger {
-    z-index: 11;
+    z-index: 1111;
     cursor: pointer;
     display: block;
     position: relative;
