@@ -1667,6 +1667,10 @@ h2 {
     margin: 0 auto 44px auto;
   }
 
+  .screen-team h2 {
+    margin-top: 0;
+  }
+
   .screen-team__container {
     display: block;
     margin: 0 auto;
@@ -1832,20 +1836,6 @@ h2 {
 
   .screen-tools__text {
     padding: 0 23px;
-  }
-
-}
-
-@media only screen and (max-width: 477px) {
-
-  .slick-prev {
-    left: 800px;
-    top: 428px;
-  }
-
-  .slick-next {
-    right: 818px;
-    top: 428px;
   }
 
 }
